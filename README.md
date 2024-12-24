@@ -2,11 +2,11 @@
 nothing much
 <html>
   <head>
-    <title> This is my first github reposetry </title>
+    <title aglin="center"> This is my first github reposetry </title>
   </head>
   <body>
     <h1> hiii <br> I'm Piyush Gupta </h1>
-    <mark>Nothing Here</mark>
+    <mark>Nothing Here</mark> <br>
     <del>No</del>
     <p>value of x<sup>5</sup> is 32</p>
   </body>
